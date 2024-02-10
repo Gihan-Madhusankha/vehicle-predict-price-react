@@ -1,0 +1,7 @@
+export const SERVER_URL = 'http://127.0.0.1:8000'
+export const ACCESS_TOKEN = 'token'
+export const REFRESH_TOKEN = 'refresh_token'
+export const USER_NAME = 'username'
+export const EMAIL = 'email'
+export const BASE_ROUTE_PATH = ''
+export const LOGIN_PATH = '/login'

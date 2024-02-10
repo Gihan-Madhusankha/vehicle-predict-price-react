@@ -1,0 +1,18 @@
+
+.navbar-bg {
+  background: #149777;
+  height: 64px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+  .inner-row {
+    margin: 0 200px;
+    height: 100%;
+  }
+
+  .car-logo {
+    width: 12%;
+  }
+
+}
